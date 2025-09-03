@@ -43,11 +43,7 @@ By combining these measures, I built dashboards to evaluate both individual stoc
 - `2311001_Crystal_FRM_CIA2_PPT.pptx` → Project presentation slides  
 - `COMPANY DATA-CRYSTAL.xlsx` → Historical stock data used for analysis  
 
-## 🙌 Reflections
-This project was a major learning curve for me. It helped me blend **finance with analytics**, automate calculations with DAX in Power BI, and understand how diversification truly minimizes portfolio risk.  
-
 ## Dashboard Images
-
 **Correlation Matrix: How Stocks Move Together**
 <img width="1503" height="844" alt="image" src="https://github.com/user-attachments/assets/1f6f04a8-18fc-4655-a80e-95b4497100f9" />
 
@@ -57,4 +53,8 @@ This project was a major learning curve for me. It helped me blend **finance wit
 **Portfolio Volatility**
 <img width="1499" height="841" alt="image" src="https://github.com/user-attachments/assets/debebecd-d6f6-459c-94d4-fce5e7f9bd83" />
 
+## 🙌 Reflections
+This project was a major learning curve for me. It helped me blend **finance with analytics**, automate calculations with DAX in Power BI, and understand how diversification truly minimizes portfolio risk.  
+
+A big thank you to **Prof. Pratik Purohit** and the **BAF Department of St. Xavier’s College, Mumbai** for assigning such projects that allow us to go beyond theory and apply concepts through real-world analysis. It truly deepened my understanding of Financial Risk Management.  
 ---
