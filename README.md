@@ -54,7 +54,7 @@ By combining these measures, I built dashboards to evaluate both individual stoc
 <img width="1499" height="841" alt="image" src="https://github.com/user-attachments/assets/debebecd-d6f6-459c-94d4-fce5e7f9bd83" />
 
 ## 🙌 Reflections
-This project was a major learning curve for me. It helped me blend **finance with analytics**, automate calculations with DAX in Power BI, and understand how diversification truly minimizes portfolio risk.  
+This project was a major learning curve for me. It helped me blend **finance with analytics**, automate calculations with DAX in Power BI, and understand how diversification truly minimizes portfolio risk.
 
 A big thank you to **Prof. Pratik Purohit** and the **BAF Department of St. Xavier’s College, Mumbai** for assigning such projects that allow us to go beyond theory and apply concepts through real-world analysis. It truly deepened my understanding of Financial Risk Management.  
----
+
