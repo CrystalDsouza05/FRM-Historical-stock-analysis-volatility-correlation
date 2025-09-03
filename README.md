@@ -38,10 +38,10 @@ By combining these measures, I built dashboards to evaluate both individual stoc
 - Correlation analysis revealed that highly correlated stocks increase portfolio risk, while combining low-correlation stocks provides stability.  
 
 ## 📂 Repository Contents
-- `Report.pdf` → Full project report  
-- `Dashboard.pbix` → Power BI interactive dashboard  
-- `Presentation.pptx` → Project presentation slides  
-- `Data.xlsx` → Historical stock data used for analysis  
+- `2311001_Crystal_FRM_CIA2_Project_Report.pdf` → Full project report  
+- `2311001_Crystal_FRM_CIA2_PBI_Dashboard.pbix` → Power BI interactive dashboard  
+- `2311001_Crystal_FRM_CIA2_PPT.pptx` → Project presentation slides  
+- `COMPANY DATA-CRYSTAL.xlsx` → Historical stock data used for analysis  
 
 ## 🙌 Reflections
 This project was a major learning curve for me. It helped me blend **finance with analytics**, automate calculations with DAX in Power BI, and understand how diversification truly minimizes portfolio risk.  
